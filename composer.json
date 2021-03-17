@@ -1,5 +1,5 @@
 {
-  "name": "studocu/appium-driver-codeception",
+  "name": "jonnx/appium-driver-codeception",
   "description": "Appium driver for codeception framework",
   "keywords": [
     "BDD",
